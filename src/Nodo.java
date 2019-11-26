@@ -22,4 +22,3 @@ class Nodo {
         this.proximo = proximo;
     }
 }
-
